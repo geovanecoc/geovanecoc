@@ -2,7 +2,7 @@
 
 I am a full-stack developer. I love programming, and learning about stuff related with technology. I like software development because it's fascinating to look for solutions to problems we found in real life and abstract in a code form. As a developer I am always thinking how to achieve the best and cleaner solution for the problem, so that is reusable and easy to read.
 
-In my spare time I plan to study english, and web and game development. I'm also a linux enthusiast, as you might have noticed from my profile picture.
+In my spare time I plan to study english, and web and game development. I'm also a linux enthusiast :)
 
 ## Prefered Languages
 
