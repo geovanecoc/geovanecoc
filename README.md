@@ -4,7 +4,7 @@
 
 I build web applications with a focus on clear, reusable, and maintainable code. I enjoy translating real-world problems into practical software solutions, connecting user interfaces, backend services, and databases.
 
-[LinkedIn](https://www.linkedin.com/in/geovane-c-77590a127/) · [Website](http://geovanedev.com.br) · [Repositories](https://github.com/geovanecoc?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/geovane-c-77590a127/) · [Website](https://geovanedev.com.br) · [Repositories](https://github.com/geovanecoc?tab=repositories)
 
 ## Development focus
 
@@ -30,4 +30,4 @@ I'm a Linux enthusiast with an interest in web and game development. I value con
 
 ## Get in touch
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/geovane-c-77590a127/) or visit my [website](http://geovanedev.com.br) to learn more about my work.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/geovane-c-77590a127/) or visit my [website](https://geovanedev.com.br) to learn more about my work.
